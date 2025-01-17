@@ -1,4 +1,4 @@
-# Hono × Zod × Prisma × Supabase　で作るバックエンドTSコース
+# Hono × Zod × Prisma × Supabaseで作るバックエンドTSコース
 クリーンアーキテクチャに則って開発しながら、モダンなスキルセットを習得する実践的な学習を行います。
 
 ## 前提知識
