@@ -14,6 +14,6 @@
 
 それでは始めましょう！
 
-[00_導入](https://github.com/tamaki24/hono_todo_doc/tree/main/00_%E5%B0%8E%E5%85%A5)
+[00_導入](https://github.com/tamaki24/hono_todo_api_doc/tree/main/00_%E5%B0%8E%E5%85%A5)
 
 [アプリケーションのリポジトリ](https://github.com/tamaki24/hono_todo_api)
